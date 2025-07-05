@@ -43,7 +43,7 @@ Tested on GT2 Pro (ferrari):
 
 If you don't have LineageOS [recovery ferrari](https://github.com/pjgowtham/android_device_realme_ferrari/releases/download/lineage-22.0-20241107-UNOFFICIAL-ferrari/recovery.img) or you can flash everything by [TWRP with data decrypt](https://github.com/pjgowtham/recovery_device_oplus_ferrarri/releases/tag/twrp-3.7.1_12-0_OPLUS-20240214-03-ferrarri) if your USB port is broken.
 
-After flashing LineageOS and/or MindTheGApps, boot into LOS recovery fastboot (preffered) or factory fastboot and flash [latest files](https://github.com/frpunlocking-com/android_kernel_realme_sm8450/releases), you have 2 methods to flash kernel by `adb sideload` or `fastboot flash`.
+After flashing LineageOS and/or MindTheGApps, boot into LOS recovery fastboot (preffered) or factory fastboot and flash [latest files](https://github.com/frpunlocking-com/android_kernel_oneplus_sm8450/releases), you have 2 methods to flash kernel by `adb sideload` or `fastboot flash`.
 
 1. Method by AnyKernel package is recommended
 
