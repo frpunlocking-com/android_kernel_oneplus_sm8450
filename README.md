@@ -27,7 +27,7 @@ This software is distributed under the **GNU General Public License v2 (GPL-2.0)
 
 ### Possible supported devices 
 
-**Note:** They can work with boot images (in v1)
+**Note:** They can work with AnyFlasher3 (in v1)
  
 - OnePlus 10 Pro
   - SoC: sm8450, Qualcomm Snapdragon 8 Gen 1
