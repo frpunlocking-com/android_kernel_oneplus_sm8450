@@ -5,7 +5,7 @@
 - Custom-modified boot, dtbo, AnyKernel package, kernel images, and source code on every release.
 - Not working Pixelify files in KernelSU (use a LSPosed module for unlimited GPhotos backup).
 
-## ## Warranty & Liability Disclaimer  
+## Warranty & Liability Disclaimer  
 
 I am not responsible if you brick your device, erase data, kill your SD card, install malware, burn the battery, trigger thermonuclear war, or get fired because an alarm app failed.  
 **You must be the rightful owner of the device you are modifying and have the legal right to alter its software.**  
