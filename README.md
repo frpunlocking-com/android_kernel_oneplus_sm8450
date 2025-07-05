@@ -1,6 +1,6 @@
 # Realme sm8450 kernel from LineageOS added KSUN + SuSFS 1.5.8
 
-- Fork of kernel for sm6375 from LineageOS with added KSUN Nightly which is root solution and hiding by SuSFS 1.5.8.
+- Fork of kernel for sm8450 from LineageOS with added KSUN Nightly which is root solution and hiding by SuSFS 1.5.8.
 - All features, except OverlaysFS Auto Kstat Support on SuSFS, proceed into an invisible root experience for all apps, including Revolut, bank, ChatGPT, goverment apps etc.
 - Custom-modified boot, dtbo, AnyKernel package, kernel images, and source code on every release.
 - Not working Pixelify files in KernelSU (use a LSPosed module for unlimited GPhotos backup).
