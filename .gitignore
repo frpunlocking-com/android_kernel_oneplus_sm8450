@@ -46,6 +46,9 @@
 *.tar
 *.xz
 *.zst
+*.patch
+*.orig
+*.rej
 Module.symvers
 modules.builtin
 modules.order
