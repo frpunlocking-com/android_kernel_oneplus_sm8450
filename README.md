@@ -34,7 +34,7 @@ This software is distributed under the **GNU General Public License v2 (GPL-2.0)
   - codename: wly
   - Needs testers, please also write [post in XDA](https://xdaforums.com/t/kernel-unofficial-ksun-next-susfs-realme-10-pro-lineageos-22-2-with-spoofing-realme-ui-6-0-stable-5-4-292-qgki-frpunlocking-15-0.4745580/) if it is working in any way.     
 
-## Installation Steps for luigi/oscar
+## Installation Steps for ferrari
 
 Tested on GT2 Pro (ferrari):
 
