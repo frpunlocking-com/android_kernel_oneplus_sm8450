@@ -38,7 +38,7 @@ This software is distributed under the **GNU General Public License v2 (GPL-2.0)
 
 Tested on GT2 Pro (ferrari):
 
-- [lineage-22.2-20250626-UNOFFICIAL-ferrari](https://github.com/pjgowtham/android_device_realme_ferrari/releases/tag/lineage-22.2-20250626-UNOFFICIAL-ferrari) - don't working fingerprint, and many things, you cannot downgrade /data
+- [lineage-22.2-20250626-UNOFFICIAL-ferrari](https://github.com/pjgowtham/android_device_realme_ferrari/releases/tag/lineage-22.2-20250626-UNOFFICIAL-ferrari) - don't working fingerprint, and many things, you cannot downgrade /data without data loss
 - [lineage-22.2-20250608-UNOFFICIAL-ferrari](https://github.com/pjgowtham/android_device_realme_ferrari/releases/tag/lineage-22.2-20250608-UNOFFICIAL-ferrari) - recommended
 
 If you don't have LineageOS [recovery ferrari](https://github.com/pjgowtham/android_device_realme_ferrari/releases/download/lineage-22.0-20241107-UNOFFICIAL-ferrari/recovery.img) or you can flash everything by [TWRP with data decrypt](https://github.com/pjgowtham/recovery_device_oplus_ferrarri/releases/tag/twrp-3.7.1_12-0_OPLUS-20240214-03-ferrarri) if your USB port is broken.
