@@ -32,7 +32,7 @@ This software is distributed under the **GNU General Public License v2 (GPL-2.0)
 - OnePlus 10 Pro
   - SoC: sm8450, Qualcomm Snapdragon 8 Gen 1
   - codename: wly
-  - Needs testers, please also write [post in XDA](https://xdaforums.com/t/kernel-unofficial-ksun-next-susfs-realme-10-pro-lineageos-22-2-with-spoofing-realme-ui-6-0-stable-5-4-292-qgki-frpunlocking-15-0.4745580/) if it is working in any way.     
+  - Needs testers, please also write [post in XDA](https://xdaforums.com/t/kernel-ksun-susfs-realme-gt2-pro-for-lineageos-22-2-stable-rmx3300-rmx3301-5-10-228-gki-15-0.4748254/) if it is working in any way.     
 
 ## Installation Steps for ferrari
 
